@@ -1,0 +1,19 @@
+Teste 01 a ser resolvido:
+
+Triângulo é uma figura geométrica formada por três retas que se encontram duas a duas e não passam pelo mesmo ponto,
+formando três lados e três ângulos.
+
+1. O triângulo pode ser classificado segundo a medida do seu lado
+
+➢ Triângulo escaleno: Todos os lados e ângulos são diferentes.
+
+➢ Triângulo isósceles: dois lados iguais e os ângulos opostos a esses lados iguais.
+
+➢ Triângulo equilátero: Todos os lados e ângulos iguais. Concluímos que seus ângulos serão de 60°.
+
+2. Restrições para a construção de um triangulo
+
+➢ Para construir um triângulo é necessário que a medida de qualquer um dos lados seja menor que a soma
+dos outros dois lados.
+
+➢ Caso algum comprimento dos lados do triângulo for inválido, escrever a mensagem “Triangulo Inválido”
